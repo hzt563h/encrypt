@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cn.ucmed.encrypt</groupId>
-    <artifactId>ncrypt-demo</artifactId>
+    <artifactId>encrypt-demo</artifactId>
     <version>1.0.0</version>
-    <name>ncrypt-demo</name>
-    <description>ncrypt-demo</description>
+    <name>encrypt-demo</name>
+    <description>encrypt-demo</description>
 
     <properties>
         <java.version>1.8</java.version>
