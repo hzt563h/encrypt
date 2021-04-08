@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    druid:
+      url: jdbc:mysql://localhost:3306/encrypt?useUnicode=true&characterEncoding=utf8&autoReconnect=true&useSSL=true&verifyServerCertificate=false&serverTimezone=GMT%2b8
+      username: root
+      password: 123456
